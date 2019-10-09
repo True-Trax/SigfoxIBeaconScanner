@@ -1,3 +1,5 @@
+// comments added here
+
 const Noble = require("noble");
 var _ = require('lodash');
 const BeaconScanner = require("node-beacon-scanner");
